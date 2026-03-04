@@ -1,4 +1,4 @@
-birth year = int(input("What Is Your Age Year"))
-current year = 2026
-age = current year - birth year 
+birth_year = int(input("What Is Your Age Year"))
+current_year = 2026
+age = current_year - birth_year 
 print("Your age is",age)

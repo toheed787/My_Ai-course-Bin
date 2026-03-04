@@ -1,0 +1,1 @@
+print("Toheed","Ahmad",end= "" )

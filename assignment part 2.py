@@ -32,6 +32,7 @@ num = int(s)
 print(num, type(num))
 
 # variable and complex
+vari = 1+4j
 
 #paragraph length
 p = "My name is Toheed I am doing data science course"
@@ -42,4 +43,6 @@ a = 50
 b = 40
 a, b = b, a
 print("a:",a,"b:",b)
+# END PART 2
+
 

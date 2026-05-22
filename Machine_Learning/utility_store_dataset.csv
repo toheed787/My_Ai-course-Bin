@@ -1,0 +1,1001 @@
+Index,Item,Category,Original Price,Discount Percentage
+1,Ball Pen Pack,Stationery,1468.48,23
+2,Dishwashing Liquid,Cleaning,2917.65,35
+3,Tape Roll,Stationery,2467.63,39
+4,LED Bulb 12W,Electrical,3643.53,36
+5,Ball Pen Pack,Stationery,2869.89,36
+6,Water Bottle 1L,Kitchen,4146.14,4
+7,Floor Cleaner,Cleaning,1701.09,38
+8,Mobile Charger,Electronics,1621.17,17
+9,Mobile Charger,Electronics,4510.06,6
+10,Notebook A4,Stationery,2230.19,10
+11,Floor Cleaner,Cleaning,3482.5,34
+12,Dishwashing Liquid,Cleaning,2966.49,26
+13,Mobile Charger,Electronics,2779.68,26
+14,LED Bulb 12W,Electrical,3949.59,16
+15,Screwdriver Set,Tools,845.25,36
+16,Storage Box,Household,4807.3,4
+17,Floor Cleaner,Cleaning,612.43,12
+18,Water Bottle 1L,Kitchen,2445.97,24
+19,Screwdriver Set,Tools,4141.2,28
+20,Floor Cleaner,Cleaning,708.25,9
+21,Water Bottle 1L,Kitchen,1670.24,3
+22,Storage Box,Household,2504.92,9
+23,Flashlight,Electrical,2252.75,13
+24,Mobile Charger,Electronics,1715.54,14
+25,LED Bulb 12W,Electrical,2019.5,39
+26,Floor Cleaner,Cleaning,2164.43,13
+27,Hammer,Tools,177.53,20
+28,USB Cable,Electronics,804.83,19
+29,Extension Cord,Electrical,725.85,34
+30,Notebook A4,Stationery,830.64,10
+31,Notebook A4,Stationery,2438.93,33
+32,LED Bulb 12W,Electrical,1569.17,31
+33,Hammer,Tools,2297.79,16
+34,Tape Roll,Stationery,2046.63,0
+35,Flashlight,Electrical,4971.19,25
+36,Hammer,Tools,1186.57,37
+37,Screwdriver Set,Tools,3740.69,15
+38,Floor Cleaner,Cleaning,4723.6,26
+39,Storage Box,Household,1273.2,0
+40,Ball Pen Pack,Stationery,1950.77,7
+41,USB Cable,Electronics,1784.49,8
+42,Storage Box,Household,4147.59,32
+43,USB Cable,Electronics,4653.9,33
+44,Dishwashing Liquid,Cleaning,4665.47,14
+45,Hammer,Tools,202.24,32
+46,Water Bottle 1L,Kitchen,2646.03,26
+47,Notebook A4,Stationery,1397.07,28
+48,LED Bulb 12W,Electrical,1288.84,30
+49,LED Bulb 12W,Electrical,2997.28,32
+50,Flashlight,Electrical,3665.03,23
+51,Mobile Charger,Electronics,1593.18,24
+52,Hammer,Tools,751.9,38
+53,Mobile Charger,Electronics,1180.34,31
+54,Tape Roll,Stationery,4308.85,38
+55,Floor Cleaner,Cleaning,1374.45,33
+56,Storage Box,Household,4694.77,14
+57,Tape Roll,Stationery,3725.31,34
+58,Mobile Charger,Electronics,4103.79,34
+59,LED Bulb 12W,Electrical,2366.15,34
+60,Notebook A4,Stationery,1442.62,18
+61,Flashlight,Electrical,4738.62,20
+62,Mobile Charger,Electronics,4006.27,9
+63,Hammer,Tools,1947.74,36
+64,Screwdriver Set,Tools,2560.91,2
+65,Tape Roll,Stationery,4992.96,9
+66,Storage Box,Household,4234.33,26
+67,Mobile Charger,Electronics,3938.4,28
+68,Tape Roll,Stationery,246.34,36
+69,Floor Cleaner,Cleaning,3094.83,33
+70,Water Bottle 1L,Kitchen,1479.46,19
+71,Ball Pen Pack,Stationery,2912.79,10
+72,USB Cable,Electronics,2610.13,21
+73,Storage Box,Household,3075.57,13
+74,Screwdriver Set,Tools,1474.37,25
+75,USB Cable,Electronics,133.1,24
+76,Floor Cleaner,Cleaning,3561.13,31
+77,Floor Cleaner,Cleaning,474.82,29
+78,Extension Cord,Electrical,4274.05,20
+79,LED Bulb 12W,Electrical,525.78,25
+80,Mobile Charger,Electronics,4959.48,39
+81,Ball Pen Pack,Stationery,4790.58,8
+82,Floor Cleaner,Cleaning,3785.04,16
+83,Hammer,Tools,2884.43,39
+84,Extension Cord,Electrical,2660.99,5
+85,Dishwashing Liquid,Cleaning,295.7,18
+86,Flashlight,Electrical,3845.8,8
+87,Ball Pen Pack,Stationery,3384.16,12
+88,Hammer,Tools,1872.37,39
+89,Plastic Bucket,Household,4557.51,32
+90,Screwdriver Set,Tools,1386.36,0
+91,Water Bottle 1L,Kitchen,978.72,7
+92,Water Bottle 1L,Kitchen,2345.52,14
+93,Floor Cleaner,Cleaning,4696.82,24
+94,USB Cable,Electronics,1863.07,27
+95,Hammer,Tools,1444.45,24
+96,Dishwashing Liquid,Cleaning,3255.19,16
+97,LED Bulb 12W,Electrical,4997.01,12
+98,LED Bulb 12W,Electrical,4454.48,36
+99,Plastic Bucket,Household,3370.68,40
+100,LED Bulb 12W,Electrical,3229.82,25
+101,Floor Cleaner,Cleaning,1643.85,15
+102,Dishwashing Liquid,Cleaning,1123.85,25
+103,Extension Cord,Electrical,4149.08,39
+104,Floor Cleaner,Cleaning,4529.92,15
+105,Notebook A4,Stationery,2691.94,37
+106,Mobile Charger,Electronics,1404.11,9
+107,Extension Cord,Electrical,3494.85,15
+108,Extension Cord,Electrical,2054.85,21
+109,Extension Cord,Electrical,4416.99,7
+110,Screwdriver Set,Tools,3574.04,26
+111,Notebook A4,Stationery,4293.88,20
+112,Floor Cleaner,Cleaning,4123.63,37
+113,Dishwashing Liquid,Cleaning,1613.55,32
+114,LED Bulb 12W,Electrical,3048.46,40
+115,Dishwashing Liquid,Cleaning,3448.45,17
+116,Storage Box,Household,2568.43,35
+117,Dishwashing Liquid,Cleaning,4216.8,36
+118,USB Cable,Electronics,2324.32,28
+119,Flashlight,Electrical,2888.3,13
+120,Hammer,Tools,3386.88,21
+121,Tape Roll,Stationery,301.8,22
+122,Dishwashing Liquid,Cleaning,197.4,7
+123,Extension Cord,Electrical,850.35,22
+124,Screwdriver Set,Tools,4476.48,3
+125,Floor Cleaner,Cleaning,2249.97,17
+126,Screwdriver Set,Tools,481.54,34
+127,Notebook A4,Stationery,532.84,30
+128,Mobile Charger,Electronics,1845.4,16
+129,Hammer,Tools,3969.67,34
+130,Ball Pen Pack,Stationery,2419.53,39
+131,Hammer,Tools,1296.21,21
+132,Floor Cleaner,Cleaning,3221.14,39
+133,LED Bulb 12W,Electrical,397.47,16
+134,Tape Roll,Stationery,1280.45,20
+135,Storage Box,Household,1311.84,16
+136,Notebook A4,Stationery,3283.75,24
+137,Notebook A4,Stationery,886.05,35
+138,Storage Box,Household,3077.48,35
+139,LED Bulb 12W,Electrical,2062.96,13
+140,Ball Pen Pack,Stationery,2848.3,17
+141,Screwdriver Set,Tools,3944.97,28
+142,Floor Cleaner,Cleaning,1444.51,38
+143,Ball Pen Pack,Stationery,3278.42,17
+144,Storage Box,Household,2392.75,4
+145,Water Bottle 1L,Kitchen,926.23,0
+146,Storage Box,Household,1286.05,36
+147,Screwdriver Set,Tools,3220.17,9
+148,Plastic Bucket,Household,2256.54,38
+149,LED Bulb 12W,Electrical,1141.48,37
+150,USB Cable,Electronics,4359.34,14
+151,LED Bulb 12W,Electrical,980.64,30
+152,Storage Box,Household,287.35,25
+153,Plastic Bucket,Household,655.94,28
+154,Mobile Charger,Electronics,4390.96,36
+155,Flashlight,Electrical,3748.64,17
+156,Extension Cord,Electrical,4989.89,8
+157,Hammer,Tools,3313.02,27
+158,Water Bottle 1L,Kitchen,416.09,37
+159,Screwdriver Set,Tools,4314.48,35
+160,Screwdriver Set,Tools,1925.7,4
+161,Notebook A4,Stationery,912.39,33
+162,Screwdriver Set,Tools,1253.21,30
+163,USB Cable,Electronics,2788.28,16
+164,Extension Cord,Electrical,1845.32,23
+165,Ball Pen Pack,Stationery,4025.91,22
+166,Ball Pen Pack,Stationery,1131.4,39
+167,Storage Box,Household,3285.49,1
+168,Hammer,Tools,4141.16,23
+169,Water Bottle 1L,Kitchen,4277.05,21
+170,Screwdriver Set,Tools,745.07,39
+171,Flashlight,Electrical,100.93,38
+172,Mobile Charger,Electronics,1553.07,25
+173,Flashlight,Electrical,1744.9,33
+174,Notebook A4,Stationery,2429.25,33
+175,Flashlight,Electrical,3614.45,33
+176,Hammer,Tools,4179.41,19
+177,Plastic Bucket,Household,1649.65,4
+178,Extension Cord,Electrical,1379.17,35
+179,Plastic Bucket,Household,4666.05,10
+180,Mobile Charger,Electronics,3387.61,16
+181,Hammer,Tools,495.93,21
+182,USB Cable,Electronics,2318.44,5
+183,Plastic Bucket,Household,4274.6,31
+184,Tape Roll,Stationery,2496.42,35
+185,USB Cable,Electronics,2763.07,22
+186,Tape Roll,Stationery,679.98,29
+187,Mobile Charger,Electronics,3078.22,12
+188,Plastic Bucket,Household,1340.49,5
+189,Extension Cord,Electrical,4830.46,9
+190,Notebook A4,Stationery,3494.56,30
+191,Flashlight,Electrical,3172.89,32
+192,Plastic Bucket,Household,3537.52,36
+193,Extension Cord,Electrical,1408.22,27
+194,Screwdriver Set,Tools,3805.53,5
+195,Mobile Charger,Electronics,3826.2,4
+196,Storage Box,Household,1641.98,16
+197,Floor Cleaner,Cleaning,1754.74,28
+198,Flashlight,Electrical,1300.08,18
+199,Water Bottle 1L,Kitchen,3991.84,10
+200,Dishwashing Liquid,Cleaning,3530.5,33
+201,LED Bulb 12W,Electrical,4566.54,39
+202,Plastic Bucket,Household,1038.9,18
+203,Dishwashing Liquid,Cleaning,168.94,2
+204,Ball Pen Pack,Stationery,2939.17,38
+205,LED Bulb 12W,Electrical,1607.77,19
+206,Flashlight,Electrical,888.66,37
+207,Tape Roll,Stationery,3419.95,31
+208,Dishwashing Liquid,Cleaning,4065.37,32
+209,Floor Cleaner,Cleaning,542.23,12
+210,Screwdriver Set,Tools,270.19,37
+211,Ball Pen Pack,Stationery,1569.6,29
+212,Extension Cord,Electrical,3362.54,17
+213,USB Cable,Electronics,2410.83,13
+214,Water Bottle 1L,Kitchen,1062.92,31
+215,Ball Pen Pack,Stationery,2083.62,32
+216,Plastic Bucket,Household,1131.96,23
+217,Hammer,Tools,3662.85,19
+218,Notebook A4,Stationery,2637.9,4
+219,Dishwashing Liquid,Cleaning,3930.71,3
+220,Mobile Charger,Electronics,2264.8,25
+221,Floor Cleaner,Cleaning,4976.03,18
+222,Notebook A4,Stationery,4653.44,37
+223,Floor Cleaner,Cleaning,3699.95,9
+224,Hammer,Tools,3301.7,38
+225,Plastic Bucket,Household,3467.79,32
+226,Dishwashing Liquid,Cleaning,206.99,39
+227,Flashlight,Electrical,805.97,33
+228,Notebook A4,Stationery,121.94,35
+229,Plastic Bucket,Household,2551.17,0
+230,Hammer,Tools,1290.0,33
+231,Hammer,Tools,1830.53,21
+232,Water Bottle 1L,Kitchen,1026.31,30
+233,Plastic Bucket,Household,3735.94,28
+234,Ball Pen Pack,Stationery,1749.94,33
+235,LED Bulb 12W,Electrical,4906.37,9
+236,Flashlight,Electrical,1149.72,19
+237,Notebook A4,Stationery,1999.04,37
+238,Flashlight,Electrical,3025.98,30
+239,Hammer,Tools,1325.3,3
+240,Extension Cord,Electrical,2826.22,17
+241,Mobile Charger,Electronics,1376.48,16
+242,LED Bulb 12W,Electrical,1165.66,40
+243,Dishwashing Liquid,Cleaning,3354.32,27
+244,Notebook A4,Stationery,1793.52,25
+245,Plastic Bucket,Household,4259.36,37
+246,USB Cable,Electronics,2699.71,1
+247,Extension Cord,Electrical,2394.41,39
+248,Notebook A4,Stationery,763.49,8
+249,Hammer,Tools,4142.86,1
+250,Dishwashing Liquid,Cleaning,2917.01,33
+251,Plastic Bucket,Household,4897.35,28
+252,Notebook A4,Stationery,2189.21,17
+253,Hammer,Tools,497.84,19
+254,Tape Roll,Stationery,4170.46,39
+255,Water Bottle 1L,Kitchen,4102.55,36
+256,Plastic Bucket,Household,1306.6,6
+257,Flashlight,Electrical,3333.15,35
+258,Notebook A4,Stationery,503.36,6
+259,Plastic Bucket,Household,4168.98,20
+260,Tape Roll,Stationery,3106.35,5
+261,Tape Roll,Stationery,4345.47,9
+262,Flashlight,Electrical,2902.29,11
+263,Mobile Charger,Electronics,2995.82,7
+264,USB Cable,Electronics,2225.37,38
+265,Storage Box,Household,3961.72,34
+266,Dishwashing Liquid,Cleaning,4642.58,3
+267,Flashlight,Electrical,4180.85,34
+268,Extension Cord,Electrical,4577.38,33
+269,USB Cable,Electronics,2974.8,8
+270,Hammer,Tools,1037.1,11
+271,Hammer,Tools,4393.83,11
+272,Tape Roll,Stationery,1599.86,2
+273,Tape Roll,Stationery,4265.22,30
+274,LED Bulb 12W,Electrical,2245.43,30
+275,Storage Box,Household,2534.2,9
+276,USB Cable,Electronics,585.96,3
+277,Storage Box,Household,833.02,7
+278,Extension Cord,Electrical,2846.9,36
+279,Water Bottle 1L,Kitchen,116.09,30
+280,Extension Cord,Electrical,3827.08,30
+281,Screwdriver Set,Tools,1054.41,16
+282,Water Bottle 1L,Kitchen,3146.34,3
+283,Ball Pen Pack,Stationery,2113.16,14
+284,Extension Cord,Electrical,1653.85,23
+285,Hammer,Tools,2352.76,28
+286,Flashlight,Electrical,988.68,19
+287,Plastic Bucket,Household,588.66,15
+288,Dishwashing Liquid,Cleaning,4499.34,6
+289,Notebook A4,Stationery,854.41,11
+290,Screwdriver Set,Tools,4904.81,6
+291,Tape Roll,Stationery,2207.81,21
+292,Tape Roll,Stationery,3433.93,17
+293,USB Cable,Electronics,3715.48,21
+294,Ball Pen Pack,Stationery,1288.5,28
+295,Flashlight,Electrical,3629.29,26
+296,Tape Roll,Stationery,4932.21,15
+297,Storage Box,Household,2235.62,3
+298,Dishwashing Liquid,Cleaning,4356.84,40
+299,Dishwashing Liquid,Cleaning,2870.98,22
+300,Ball Pen Pack,Stationery,3708.02,2
+301,Extension Cord,Electrical,236.97,15
+302,Notebook A4,Stationery,3940.67,15
+303,Dishwashing Liquid,Cleaning,2450.15,12
+304,Tape Roll,Stationery,781.17,1
+305,Ball Pen Pack,Stationery,4322.78,22
+306,Ball Pen Pack,Stationery,3370.27,12
+307,Water Bottle 1L,Kitchen,416.55,28
+308,Storage Box,Household,3415.32,32
+309,Ball Pen Pack,Stationery,441.7,1
+310,Tape Roll,Stationery,1118.99,29
+311,Plastic Bucket,Household,3542.94,3
+312,Mobile Charger,Electronics,4438.96,29
+313,Floor Cleaner,Cleaning,492.82,6
+314,Storage Box,Household,4062.34,7
+315,Plastic Bucket,Household,558.12,2
+316,Ball Pen Pack,Stationery,3956.45,12
+317,Ball Pen Pack,Stationery,4395.77,8
+318,USB Cable,Electronics,771.62,27
+319,Floor Cleaner,Cleaning,229.03,8
+320,Mobile Charger,Electronics,2572.57,14
+321,Extension Cord,Electrical,4743.2,38
+322,Mobile Charger,Electronics,2338.66,37
+323,Plastic Bucket,Household,4941.34,3
+324,Extension Cord,Electrical,3317.8,25
+325,Notebook A4,Stationery,4385.26,34
+326,Water Bottle 1L,Kitchen,2600.5,9
+327,Floor Cleaner,Cleaning,2906.86,5
+328,Extension Cord,Electrical,1407.54,28
+329,Plastic Bucket,Household,2024.24,33
+330,Storage Box,Household,4725.61,3
+331,Dishwashing Liquid,Cleaning,3969.65,27
+332,Notebook A4,Stationery,645.91,1
+333,Extension Cord,Electrical,2291.85,13
+334,Notebook A4,Stationery,360.96,9
+335,Plastic Bucket,Household,1973.69,7
+336,Water Bottle 1L,Kitchen,367.88,34
+337,Ball Pen Pack,Stationery,2927.99,33
+338,Ball Pen Pack,Stationery,508.22,9
+339,Plastic Bucket,Household,308.87,13
+340,Mobile Charger,Electronics,4044.61,31
+341,Water Bottle 1L,Kitchen,3341.11,5
+342,Hammer,Tools,2037.06,34
+343,Screwdriver Set,Tools,819.64,17
+344,Floor Cleaner,Cleaning,3928.66,24
+345,Extension Cord,Electrical,3416.26,32
+346,Plastic Bucket,Household,1399.18,7
+347,Plastic Bucket,Household,1438.62,25
+348,Extension Cord,Electrical,340.49,4
+349,Plastic Bucket,Household,4969.4,38
+350,Screwdriver Set,Tools,2280.28,25
+351,Water Bottle 1L,Kitchen,436.49,12
+352,Ball Pen Pack,Stationery,2464.46,20
+353,Flashlight,Electrical,3153.57,5
+354,Tape Roll,Stationery,2415.89,2
+355,Ball Pen Pack,Stationery,3068.08,25
+356,Extension Cord,Electrical,2412.46,21
+357,Plastic Bucket,Household,2373.27,31
+358,Floor Cleaner,Cleaning,700.27,39
+359,Flashlight,Electrical,4645.26,19
+360,Flashlight,Electrical,958.39,27
+361,Dishwashing Liquid,Cleaning,1234.46,15
+362,Storage Box,Household,3104.47,30
+363,LED Bulb 12W,Electrical,706.43,35
+364,Dishwashing Liquid,Cleaning,1552.22,32
+365,Water Bottle 1L,Kitchen,1524.39,34
+366,USB Cable,Electronics,2946.35,15
+367,Tape Roll,Stationery,600.38,22
+368,Ball Pen Pack,Stationery,4658.64,31
+369,Flashlight,Electrical,622.67,13
+370,Ball Pen Pack,Stationery,4048.75,19
+371,Notebook A4,Stationery,3602.16,5
+372,Screwdriver Set,Tools,2754.6,31
+373,USB Cable,Electronics,3285.23,7
+374,Extension Cord,Electrical,2752.94,27
+375,Screwdriver Set,Tools,328.47,16
+376,Mobile Charger,Electronics,645.37,25
+377,Floor Cleaner,Cleaning,157.81,24
+378,Floor Cleaner,Cleaning,4839.64,37
+379,Screwdriver Set,Tools,3273.63,36
+380,LED Bulb 12W,Electrical,3724.49,26
+381,USB Cable,Electronics,766.48,18
+382,Storage Box,Household,1536.39,27
+383,Floor Cleaner,Cleaning,4215.38,25
+384,Hammer,Tools,4749.25,20
+385,Plastic Bucket,Household,3012.22,7
+386,Extension Cord,Electrical,590.23,27
+387,Floor Cleaner,Cleaning,1073.77,29
+388,Tape Roll,Stationery,1350.05,15
+389,Flashlight,Electrical,1266.82,30
+390,Tape Roll,Stationery,3810.51,20
+391,LED Bulb 12W,Electrical,3474.01,19
+392,Storage Box,Household,4115.68,34
+393,Dishwashing Liquid,Cleaning,1510.14,9
+394,Storage Box,Household,4053.46,32
+395,LED Bulb 12W,Electrical,320.67,7
+396,LED Bulb 12W,Electrical,3030.55,40
+397,Notebook A4,Stationery,1777.06,13
+398,Screwdriver Set,Tools,2291.6,2
+399,Plastic Bucket,Household,1518.58,0
+400,Tape Roll,Stationery,1586.15,9
+401,Screwdriver Set,Tools,852.01,30
+402,Screwdriver Set,Tools,3512.09,38
+403,USB Cable,Electronics,311.89,40
+404,Floor Cleaner,Cleaning,3232.12,39
+405,Floor Cleaner,Cleaning,1785.78,16
+406,Extension Cord,Electrical,3688.24,14
+407,Floor Cleaner,Cleaning,1389.31,9
+408,Floor Cleaner,Cleaning,2669.18,20
+409,Floor Cleaner,Cleaning,4147.35,33
+410,LED Bulb 12W,Electrical,2986.0,32
+411,Hammer,Tools,474.49,29
+412,Storage Box,Household,2989.05,21
+413,Mobile Charger,Electronics,3247.66,39
+414,Tape Roll,Stationery,2459.63,6
+415,Notebook A4,Stationery,4498.75,23
+416,Flashlight,Electrical,4502.09,25
+417,Water Bottle 1L,Kitchen,1862.3,37
+418,Ball Pen Pack,Stationery,1780.21,19
+419,Tape Roll,Stationery,4658.99,4
+420,Floor Cleaner,Cleaning,1338.96,35
+421,USB Cable,Electronics,3052.42,36
+422,Floor Cleaner,Cleaning,2887.57,5
+423,LED Bulb 12W,Electrical,1174.78,8
+424,Dishwashing Liquid,Cleaning,446.28,7
+425,Tape Roll,Stationery,4471.56,14
+426,Storage Box,Household,2560.14,6
+427,Mobile Charger,Electronics,2970.77,40
+428,Hammer,Tools,4245.6,7
+429,Water Bottle 1L,Kitchen,3434.76,34
+430,Screwdriver Set,Tools,193.31,28
+431,Plastic Bucket,Household,877.51,17
+432,Ball Pen Pack,Stationery,4368.41,9
+433,Dishwashing Liquid,Cleaning,303.48,38
+434,Extension Cord,Electrical,3204.45,10
+435,LED Bulb 12W,Electrical,767.68,11
+436,Screwdriver Set,Tools,1025.69,32
+437,Hammer,Tools,612.47,16
+438,Dishwashing Liquid,Cleaning,2403.41,28
+439,Water Bottle 1L,Kitchen,964.49,0
+440,Ball Pen Pack,Stationery,2622.1,16
+441,Plastic Bucket,Household,197.69,12
+442,Water Bottle 1L,Kitchen,4518.47,8
+443,Ball Pen Pack,Stationery,736.04,18
+444,Notebook A4,Stationery,700.48,18
+445,Dishwashing Liquid,Cleaning,885.85,13
+446,Ball Pen Pack,Stationery,1160.58,30
+447,Plastic Bucket,Household,2120.81,18
+448,Water Bottle 1L,Kitchen,3518.84,28
+449,Mobile Charger,Electronics,3174.54,14
+450,Floor Cleaner,Cleaning,2613.0,16
+451,Floor Cleaner,Cleaning,4652.23,27
+452,Floor Cleaner,Cleaning,1679.93,31
+453,Extension Cord,Electrical,4822.73,21
+454,Hammer,Tools,4754.55,2
+455,Flashlight,Electrical,4467.9,8
+456,Extension Cord,Electrical,1727.11,15
+457,Extension Cord,Electrical,484.55,13
+458,USB Cable,Electronics,192.16,9
+459,Mobile Charger,Electronics,4034.47,14
+460,USB Cable,Electronics,1446.8,1
+461,Mobile Charger,Electronics,4645.98,14
+462,Floor Cleaner,Cleaning,4543.01,9
+463,Screwdriver Set,Tools,365.19,12
+464,Extension Cord,Electrical,330.58,34
+465,Hammer,Tools,1852.02,1
+466,Hammer,Tools,906.23,34
+467,Tape Roll,Stationery,2104.87,15
+468,Hammer,Tools,511.58,10
+469,Notebook A4,Stationery,4963.34,36
+470,Dishwashing Liquid,Cleaning,2998.0,31
+471,Plastic Bucket,Household,541.77,33
+472,Extension Cord,Electrical,3458.11,33
+473,Plastic Bucket,Household,2169.55,32
+474,Notebook A4,Stationery,437.29,37
+475,Tape Roll,Stationery,2312.31,13
+476,Mobile Charger,Electronics,962.49,22
+477,Plastic Bucket,Household,933.62,20
+478,Notebook A4,Stationery,2482.64,26
+479,Water Bottle 1L,Kitchen,4141.11,29
+480,Floor Cleaner,Cleaning,3488.39,9
+481,Flashlight,Electrical,3166.64,16
+482,Water Bottle 1L,Kitchen,3681.42,11
+483,LED Bulb 12W,Electrical,2533.36,31
+484,Hammer,Tools,1848.49,0
+485,Flashlight,Electrical,1646.32,0
+486,Notebook A4,Stationery,2835.19,40
+487,Storage Box,Household,4572.73,9
+488,Tape Roll,Stationery,1520.91,34
+489,Storage Box,Household,2401.85,13
+490,Water Bottle 1L,Kitchen,1417.75,20
+491,Screwdriver Set,Tools,4449.16,9
+492,Mobile Charger,Electronics,4454.89,17
+493,Notebook A4,Stationery,2941.05,31
+494,Ball Pen Pack,Stationery,2760.65,5
+495,Floor Cleaner,Cleaning,2839.98,14
+496,Hammer,Tools,4211.73,20
+497,Extension Cord,Electrical,2058.65,23
+498,Ball Pen Pack,Stationery,4850.36,1
+499,Tape Roll,Stationery,3162.2,36
+500,Floor Cleaner,Cleaning,2753.23,39
+501,Water Bottle 1L,Kitchen,448.76,18
+502,Extension Cord,Electrical,372.18,5
+503,Notebook A4,Stationery,767.13,33
+504,Dishwashing Liquid,Cleaning,3227.04,31
+505,Water Bottle 1L,Kitchen,1202.97,29
+506,Water Bottle 1L,Kitchen,2206.25,6
+507,Plastic Bucket,Household,406.35,1
+508,Hammer,Tools,4750.42,9
+509,Floor Cleaner,Cleaning,706.12,17
+510,Flashlight,Electrical,2459.05,10
+511,Flashlight,Electrical,2562.59,18
+512,Storage Box,Household,1697.3,6
+513,Storage Box,Household,3090.23,38
+514,LED Bulb 12W,Electrical,2911.99,28
+515,Plastic Bucket,Household,523.8,14
+516,Mobile Charger,Electronics,4519.26,20
+517,Storage Box,Household,3093.9,4
+518,Dishwashing Liquid,Cleaning,2870.01,5
+519,Water Bottle 1L,Kitchen,1266.49,39
+520,Ball Pen Pack,Stationery,1189.07,16
+521,USB Cable,Electronics,455.18,11
+522,Screwdriver Set,Tools,4161.22,8
+523,Floor Cleaner,Cleaning,250.47,30
+524,Floor Cleaner,Cleaning,2387.12,7
+525,Plastic Bucket,Household,333.51,0
+526,Water Bottle 1L,Kitchen,2324.17,24
+527,Plastic Bucket,Household,1822.02,36
+528,Tape Roll,Stationery,3883.7,29
+529,Floor Cleaner,Cleaning,2477.33,36
+530,Dishwashing Liquid,Cleaning,493.99,35
+531,Tape Roll,Stationery,1201.71,18
+532,Hammer,Tools,4485.33,34
+533,USB Cable,Electronics,1389.11,30
+534,Water Bottle 1L,Kitchen,960.87,30
+535,Floor Cleaner,Cleaning,1367.64,20
+536,USB Cable,Electronics,3978.38,6
+537,USB Cable,Electronics,2868.0,0
+538,LED Bulb 12W,Electrical,3984.42,28
+539,Water Bottle 1L,Kitchen,4534.65,4
+540,Water Bottle 1L,Kitchen,4925.13,26
+541,Mobile Charger,Electronics,1630.8,28
+542,Mobile Charger,Electronics,4020.21,1
+543,Hammer,Tools,2342.84,38
+544,Tape Roll,Stationery,3035.17,31
+545,Tape Roll,Stationery,3807.66,39
+546,Flashlight,Electrical,2222.98,9
+547,Tape Roll,Stationery,655.21,15
+548,Plastic Bucket,Household,3821.29,7
+549,USB Cable,Electronics,4477.41,15
+550,Ball Pen Pack,Stationery,1160.04,13
+551,Extension Cord,Electrical,4848.39,4
+552,Ball Pen Pack,Stationery,1747.3,28
+553,Water Bottle 1L,Kitchen,4273.67,23
+554,Ball Pen Pack,Stationery,4596.64,22
+555,Notebook A4,Stationery,4967.22,40
+556,Mobile Charger,Electronics,1590.27,30
+557,Screwdriver Set,Tools,3286.58,11
+558,Hammer,Tools,1441.62,35
+559,Dishwashing Liquid,Cleaning,3253.12,37
+560,LED Bulb 12W,Electrical,720.17,12
+561,Ball Pen Pack,Stationery,966.4,3
+562,Hammer,Tools,2313.84,5
+563,Storage Box,Household,4390.72,6
+564,Dishwashing Liquid,Cleaning,4871.72,21
+565,LED Bulb 12W,Electrical,350.91,9
+566,LED Bulb 12W,Electrical,2392.42,2
+567,Tape Roll,Stationery,2287.05,1
+568,Water Bottle 1L,Kitchen,4847.36,36
+569,Ball Pen Pack,Stationery,2846.56,20
+570,Plastic Bucket,Household,967.87,3
+571,Plastic Bucket,Household,3472.86,10
+572,Plastic Bucket,Household,2407.83,18
+573,Dishwashing Liquid,Cleaning,2456.41,39
+574,Ball Pen Pack,Stationery,1258.54,39
+575,Ball Pen Pack,Stationery,3211.29,12
+576,Dishwashing Liquid,Cleaning,2397.67,36
+577,Notebook A4,Stationery,165.78,39
+578,Mobile Charger,Electronics,2122.05,1
+579,Hammer,Tools,733.1,36
+580,Ball Pen Pack,Stationery,4795.04,35
+581,Tape Roll,Stationery,1302.55,18
+582,LED Bulb 12W,Electrical,4583.95,38
+583,Floor Cleaner,Cleaning,3412.42,32
+584,Flashlight,Electrical,3602.82,5
+585,Mobile Charger,Electronics,2236.15,15
+586,Plastic Bucket,Household,2194.44,38
+587,Floor Cleaner,Cleaning,2605.13,37
+588,Extension Cord,Electrical,4082.35,9
+589,Flashlight,Electrical,2554.69,38
+590,Water Bottle 1L,Kitchen,2546.26,4
+591,Plastic Bucket,Household,917.26,26
+592,Flashlight,Electrical,2980.48,14
+593,Notebook A4,Stationery,2025.47,26
+594,Mobile Charger,Electronics,2166.97,29
+595,Plastic Bucket,Household,1498.67,27
+596,Ball Pen Pack,Stationery,1592.36,24
+597,USB Cable,Electronics,3871.36,37
+598,LED Bulb 12W,Electrical,1543.81,24
+599,Hammer,Tools,3576.59,31
+600,Dishwashing Liquid,Cleaning,2005.75,15
+601,Plastic Bucket,Household,1016.54,1
+602,Screwdriver Set,Tools,3303.15,39
+603,Water Bottle 1L,Kitchen,2913.47,1
+604,Extension Cord,Electrical,2230.09,24
+605,Dishwashing Liquid,Cleaning,1840.08,23
+606,Dishwashing Liquid,Cleaning,4586.81,12
+607,Tape Roll,Stationery,2136.02,17
+608,USB Cable,Electronics,4948.64,24
+609,Storage Box,Household,823.5,0
+610,Screwdriver Set,Tools,2732.09,24
+611,Screwdriver Set,Tools,2871.7,27
+612,Hammer,Tools,4472.84,37
+613,Plastic Bucket,Household,3254.62,33
+614,Floor Cleaner,Cleaning,1811.52,1
+615,Extension Cord,Electrical,1551.83,36
+616,Tape Roll,Stationery,4385.61,28
+617,Water Bottle 1L,Kitchen,1058.37,37
+618,Plastic Bucket,Household,136.08,18
+619,Tape Roll,Stationery,3689.7,5
+620,Water Bottle 1L,Kitchen,1211.81,5
+621,Hammer,Tools,4239.87,10
+622,Dishwashing Liquid,Cleaning,4037.44,19
+623,Water Bottle 1L,Kitchen,4346.66,17
+624,Ball Pen Pack,Stationery,4986.43,14
+625,Tape Roll,Stationery,827.78,23
+626,USB Cable,Electronics,1712.86,11
+627,Ball Pen Pack,Stationery,3158.32,25
+628,Storage Box,Household,4274.3,30
+629,Screwdriver Set,Tools,4677.4,28
+630,Water Bottle 1L,Kitchen,1625.86,24
+631,Extension Cord,Electrical,4232.76,29
+632,Screwdriver Set,Tools,4733.18,12
+633,Screwdriver Set,Tools,1852.75,21
+634,Notebook A4,Stationery,1351.44,36
+635,Hammer,Tools,3355.83,37
+636,LED Bulb 12W,Electrical,2466.81,26
+637,Tape Roll,Stationery,773.59,15
+638,Storage Box,Household,2753.41,0
+639,Plastic Bucket,Household,368.47,4
+640,Screwdriver Set,Tools,2715.6,5
+641,Water Bottle 1L,Kitchen,3070.15,7
+642,Mobile Charger,Electronics,3534.87,21
+643,Screwdriver Set,Tools,1115.6,35
+644,Screwdriver Set,Tools,1623.32,27
+645,Plastic Bucket,Household,4897.96,10
+646,Water Bottle 1L,Kitchen,394.41,24
+647,Flashlight,Electrical,1241.01,2
+648,Plastic Bucket,Household,2994.58,1
+649,LED Bulb 12W,Electrical,1689.53,18
+650,Notebook A4,Stationery,1443.65,31
+651,Dishwashing Liquid,Cleaning,3230.12,15
+652,USB Cable,Electronics,4560.3,39
+653,Screwdriver Set,Tools,2243.23,8
+654,Flashlight,Electrical,621.99,14
+655,Plastic Bucket,Household,1299.68,3
+656,Dishwashing Liquid,Cleaning,2987.84,37
+657,Water Bottle 1L,Kitchen,4412.62,40
+658,Plastic Bucket,Household,4333.4,32
+659,Flashlight,Electrical,3542.43,20
+660,LED Bulb 12W,Electrical,3781.32,20
+661,Screwdriver Set,Tools,1587.86,21
+662,LED Bulb 12W,Electrical,3041.33,17
+663,Storage Box,Household,2659.64,15
+664,Ball Pen Pack,Stationery,655.06,16
+665,Storage Box,Household,2154.68,23
+666,Floor Cleaner,Cleaning,519.55,38
+667,Storage Box,Household,4444.6,34
+668,Mobile Charger,Electronics,3967.95,30
+669,Hammer,Tools,532.8,25
+670,Dishwashing Liquid,Cleaning,3090.58,1
+671,Plastic Bucket,Household,200.97,19
+672,Notebook A4,Stationery,2337.6,13
+673,Dishwashing Liquid,Cleaning,2017.3,18
+674,Dishwashing Liquid,Cleaning,4073.65,8
+675,Tape Roll,Stationery,317.19,19
+676,Tape Roll,Stationery,2387.73,9
+677,USB Cable,Electronics,4477.87,10
+678,LED Bulb 12W,Electrical,2249.33,15
+679,Hammer,Tools,3421.75,21
+680,Screwdriver Set,Tools,4178.43,3
+681,Plastic Bucket,Household,3208.58,19
+682,Extension Cord,Electrical,2557.94,38
+683,Water Bottle 1L,Kitchen,1593.9,27
+684,Notebook A4,Stationery,4393.59,16
+685,Tape Roll,Stationery,611.78,19
+686,Ball Pen Pack,Stationery,3088.39,40
+687,Screwdriver Set,Tools,3533.87,39
+688,Storage Box,Household,4418.41,35
+689,Water Bottle 1L,Kitchen,1620.84,13
+690,Dishwashing Liquid,Cleaning,2892.34,0
+691,Plastic Bucket,Household,4305.8,20
+692,Ball Pen Pack,Stationery,1473.73,39
+693,Notebook A4,Stationery,4035.92,6
+694,Water Bottle 1L,Kitchen,4680.29,19
+695,Screwdriver Set,Tools,290.44,33
+696,Water Bottle 1L,Kitchen,1108.19,28
+697,Plastic Bucket,Household,1801.55,35
+698,USB Cable,Electronics,4243.56,24
+699,Water Bottle 1L,Kitchen,3553.18,28
+700,LED Bulb 12W,Electrical,203.16,8
+701,Screwdriver Set,Tools,546.91,28
+702,Storage Box,Household,4118.95,35
+703,Storage Box,Household,2498.07,2
+704,Flashlight,Electrical,300.37,22
+705,Dishwashing Liquid,Cleaning,3973.27,32
+706,Flashlight,Electrical,2397.66,32
+707,Plastic Bucket,Household,1176.75,21
+708,Screwdriver Set,Tools,2238.05,22
+709,Flashlight,Electrical,1309.28,8
+710,Notebook A4,Stationery,3043.09,24
+711,Mobile Charger,Electronics,2929.94,40
+712,LED Bulb 12W,Electrical,1824.28,12
+713,Ball Pen Pack,Stationery,4403.24,6
+714,Flashlight,Electrical,4721.78,18
+715,LED Bulb 12W,Electrical,1829.36,31
+716,Floor Cleaner,Cleaning,4041.17,8
+717,Extension Cord,Electrical,4469.58,22
+718,Storage Box,Household,1151.96,27
+719,Extension Cord,Electrical,1254.44,35
+720,Hammer,Tools,2328.08,3
+721,Storage Box,Household,3104.65,24
+722,Tape Roll,Stationery,3243.9,4
+723,Flashlight,Electrical,866.68,28
+724,Mobile Charger,Electronics,3885.53,28
+725,Hammer,Tools,1862.29,36
+726,Notebook A4,Stationery,612.4,16
+727,Water Bottle 1L,Kitchen,3166.16,16
+728,Storage Box,Household,3639.72,19
+729,Extension Cord,Electrical,2595.32,9
+730,Extension Cord,Electrical,1992.1,34
+731,Notebook A4,Stationery,3171.24,2
+732,LED Bulb 12W,Electrical,1960.6,17
+733,Ball Pen Pack,Stationery,1794.48,15
+734,Dishwashing Liquid,Cleaning,3545.3,16
+735,Tape Roll,Stationery,4363.24,26
+736,Mobile Charger,Electronics,4410.76,39
+737,Water Bottle 1L,Kitchen,778.81,23
+738,USB Cable,Electronics,120.29,39
+739,Ball Pen Pack,Stationery,4871.35,32
+740,Hammer,Tools,4953.81,27
+741,Flashlight,Electrical,1383.41,11
+742,Screwdriver Set,Tools,4349.11,11
+743,Mobile Charger,Electronics,1485.88,13
+744,Notebook A4,Stationery,3844.5,8
+745,Water Bottle 1L,Kitchen,2643.68,9
+746,Extension Cord,Electrical,3341.17,38
+747,Flashlight,Electrical,670.09,9
+748,Notebook A4,Stationery,2254.42,36
+749,USB Cable,Electronics,1266.16,24
+750,Floor Cleaner,Cleaning,2524.94,4
+751,Flashlight,Electrical,1408.54,25
+752,Hammer,Tools,3639.76,27
+753,Tape Roll,Stationery,4750.53,22
+754,Notebook A4,Stationery,4698.27,1
+755,Water Bottle 1L,Kitchen,2548.69,1
+756,Water Bottle 1L,Kitchen,395.64,4
+757,Ball Pen Pack,Stationery,4120.06,25
+758,Floor Cleaner,Cleaning,715.16,28
+759,Tape Roll,Stationery,4303.54,21
+760,USB Cable,Electronics,1863.13,7
+761,Tape Roll,Stationery,3240.72,19
+762,Storage Box,Household,4734.88,32
+763,Mobile Charger,Electronics,4759.24,24
+764,Screwdriver Set,Tools,2415.44,20
+765,Extension Cord,Electrical,2606.83,30
+766,Storage Box,Household,2978.98,32
+767,Ball Pen Pack,Stationery,4489.14,37
+768,Water Bottle 1L,Kitchen,1923.9,16
+769,Mobile Charger,Electronics,350.22,5
+770,Ball Pen Pack,Stationery,2634.2,18
+771,Notebook A4,Stationery,3386.3,0
+772,Plastic Bucket,Household,782.05,4
+773,Water Bottle 1L,Kitchen,2737.68,18
+774,Notebook A4,Stationery,4302.65,25
+775,Screwdriver Set,Tools,422.73,8
+776,Flashlight,Electrical,2942.39,17
+777,Screwdriver Set,Tools,2183.24,5
+778,Plastic Bucket,Household,3801.13,35
+779,Water Bottle 1L,Kitchen,2885.11,25
+780,USB Cable,Electronics,1244.44,32
+781,USB Cable,Electronics,1517.43,37
+782,Storage Box,Household,4776.52,28
+783,LED Bulb 12W,Electrical,4229.27,35
+784,Water Bottle 1L,Kitchen,2913.31,31
+785,Hammer,Tools,3545.08,20
+786,Storage Box,Household,2064.02,1
+787,Hammer,Tools,3790.95,40
+788,USB Cable,Electronics,3144.43,1
+789,Tape Roll,Stationery,2269.17,7
+790,Hammer,Tools,2445.07,23
+791,Floor Cleaner,Cleaning,379.76,15
+792,LED Bulb 12W,Electrical,1757.21,31
+793,Hammer,Tools,2007.02,27
+794,Floor Cleaner,Cleaning,1672.6,24
+795,Storage Box,Household,1820.61,13
+796,Tape Roll,Stationery,1380.2,36
+797,USB Cable,Electronics,1337.41,36
+798,Flashlight,Electrical,2983.54,18
+799,Notebook A4,Stationery,3814.36,25
+800,Flashlight,Electrical,1262.05,38
+801,Extension Cord,Electrical,1115.74,18
+802,Ball Pen Pack,Stationery,3609.95,22
+803,LED Bulb 12W,Electrical,4023.52,15
+804,USB Cable,Electronics,1031.0,14
+805,Storage Box,Household,1481.89,29
+806,Water Bottle 1L,Kitchen,4985.78,4
+807,LED Bulb 12W,Electrical,1958.04,21
+808,LED Bulb 12W,Electrical,2008.24,21
+809,Storage Box,Household,2778.03,9
+810,LED Bulb 12W,Electrical,1980.9,17
+811,USB Cable,Electronics,1909.76,0
+812,LED Bulb 12W,Electrical,232.14,26
+813,Floor Cleaner,Cleaning,776.48,25
+814,Floor Cleaner,Cleaning,3891.2,13
+815,Tape Roll,Stationery,3628.35,35
+816,USB Cable,Electronics,2016.61,6
+817,LED Bulb 12W,Electrical,2086.85,0
+818,Floor Cleaner,Cleaning,2653.54,15
+819,Notebook A4,Stationery,3947.08,22
+820,Tape Roll,Stationery,1178.31,34
+821,Tape Roll,Stationery,3327.25,28
+822,Storage Box,Household,1611.72,2
+823,USB Cable,Electronics,423.37,27
+824,Hammer,Tools,4957.34,32
+825,Plastic Bucket,Household,1079.37,15
+826,Water Bottle 1L,Kitchen,2376.54,40
+827,Tape Roll,Stationery,841.11,32
+828,Mobile Charger,Electronics,3822.77,16
+829,LED Bulb 12W,Electrical,4552.93,0
+830,Ball Pen Pack,Stationery,814.23,3
+831,Notebook A4,Stationery,854.92,20
+832,Storage Box,Household,2119.35,31
+833,Plastic Bucket,Household,107.89,6
+834,Flashlight,Electrical,3315.56,2
+835,Hammer,Tools,2681.27,6
+836,Plastic Bucket,Household,4424.01,4
+837,Extension Cord,Electrical,2221.8,19
+838,Flashlight,Electrical,3785.01,5
+839,Ball Pen Pack,Stationery,540.22,0
+840,Extension Cord,Electrical,686.04,23
+841,Hammer,Tools,3211.98,37
+842,Notebook A4,Stationery,165.93,3
+843,Plastic Bucket,Household,667.89,34
+844,Tape Roll,Stationery,2024.84,18
+845,Water Bottle 1L,Kitchen,1137.44,29
+846,Flashlight,Electrical,1271.5,5
+847,Extension Cord,Electrical,3263.4,4
+848,Tape Roll,Stationery,2836.29,3
+849,Tape Roll,Stationery,1562.05,10
+850,Floor Cleaner,Cleaning,4205.6,11
+851,Hammer,Tools,100.65,34
+852,USB Cable,Electronics,3819.84,7
+853,Extension Cord,Electrical,843.07,32
+854,Ball Pen Pack,Stationery,3893.7,33
+855,Storage Box,Household,1070.02,40
+856,Tape Roll,Stationery,2679.66,3
+857,Screwdriver Set,Tools,4981.49,18
+858,Plastic Bucket,Household,2902.32,26
+859,Hammer,Tools,4182.4,8
+860,LED Bulb 12W,Electrical,1573.08,11
+861,Dishwashing Liquid,Cleaning,775.75,14
+862,Mobile Charger,Electronics,4537.09,24
+863,LED Bulb 12W,Electrical,4192.14,6
+864,Flashlight,Electrical,4879.35,17
+865,Notebook A4,Stationery,3000.5,21
+866,Hammer,Tools,535.39,7
+867,Flashlight,Electrical,1536.22,7
+868,Mobile Charger,Electronics,3609.09,30
+869,USB Cable,Electronics,191.6,29
+870,Water Bottle 1L,Kitchen,3983.22,5
+871,Water Bottle 1L,Kitchen,2299.0,24
+872,Dishwashing Liquid,Cleaning,3243.2,6
+873,Storage Box,Household,604.85,5
+874,Mobile Charger,Electronics,3574.18,4
+875,Screwdriver Set,Tools,4913.38,14
+876,Screwdriver Set,Tools,2827.59,10
+877,Hammer,Tools,2027.96,6
+878,LED Bulb 12W,Electrical,2260.36,36
+879,Flashlight,Electrical,4787.11,5
+880,Screwdriver Set,Tools,3305.88,37
+881,LED Bulb 12W,Electrical,1423.63,15
+882,Storage Box,Household,3748.25,17
+883,Notebook A4,Stationery,1464.42,19
+884,Flashlight,Electrical,4093.08,29
+885,Notebook A4,Stationery,1386.5,10
+886,Mobile Charger,Electronics,3041.66,22
+887,Water Bottle 1L,Kitchen,2655.01,8
+888,Hammer,Tools,815.86,19
+889,Extension Cord,Electrical,3668.53,32
+890,Water Bottle 1L,Kitchen,1035.95,7
+891,Mobile Charger,Electronics,2291.9,38
+892,Plastic Bucket,Household,2805.83,27
+893,Floor Cleaner,Cleaning,1342.87,8
+894,Water Bottle 1L,Kitchen,4176.28,31
+895,Floor Cleaner,Cleaning,2995.64,3
+896,Ball Pen Pack,Stationery,3795.92,21
+897,Ball Pen Pack,Stationery,2084.61,12
+898,Floor Cleaner,Cleaning,1918.89,7
+899,Screwdriver Set,Tools,1487.75,26
+900,Flashlight,Electrical,1845.45,35
+901,Dishwashing Liquid,Cleaning,856.89,7
+902,LED Bulb 12W,Electrical,2523.99,1
+903,Floor Cleaner,Cleaning,4611.78,28
+904,Notebook A4,Stationery,2786.08,38
+905,Water Bottle 1L,Kitchen,2807.37,0
+906,Notebook A4,Stationery,3507.73,3
+907,Mobile Charger,Electronics,3247.86,33
+908,Water Bottle 1L,Kitchen,1920.85,3
+909,Dishwashing Liquid,Cleaning,3987.22,32
+910,Storage Box,Household,3143.62,13
+911,Plastic Bucket,Household,3985.43,7
+912,Storage Box,Household,3847.47,15
+913,Tape Roll,Stationery,2352.79,1
+914,Floor Cleaner,Cleaning,2931.75,2
+915,USB Cable,Electronics,2876.13,32
+916,Water Bottle 1L,Kitchen,4748.82,16
+917,Hammer,Tools,4366.81,1
+918,Ball Pen Pack,Stationery,3517.31,21
+919,Dishwashing Liquid,Cleaning,2014.01,20
+920,Tape Roll,Stationery,1952.23,6
+921,Extension Cord,Electrical,471.93,15
+922,Notebook A4,Stationery,4215.21,29
+923,Plastic Bucket,Household,1411.68,2
+924,Flashlight,Electrical,2962.47,25
+925,Notebook A4,Stationery,2176.17,5
+926,Mobile Charger,Electronics,3324.46,40
+927,Flashlight,Electrical,200.84,3
+928,LED Bulb 12W,Electrical,3046.52,35
+929,Notebook A4,Stationery,911.69,17
+930,Extension Cord,Electrical,4114.01,27
+931,Screwdriver Set,Tools,2953.2,1
+932,Notebook A4,Stationery,3988.0,18
+933,Screwdriver Set,Tools,4399.38,37
+934,Water Bottle 1L,Kitchen,4536.26,16
+935,LED Bulb 12W,Electrical,3176.07,6
+936,Hammer,Tools,406.13,21
+937,Dishwashing Liquid,Cleaning,1129.2,3
+938,Tape Roll,Stationery,493.99,37
+939,Flashlight,Electrical,1700.09,16
+940,Screwdriver Set,Tools,2726.98,40
+941,Flashlight,Electrical,3428.02,35
+942,Water Bottle 1L,Kitchen,3454.75,9
+943,Tape Roll,Stationery,3802.26,33
+944,Tape Roll,Stationery,1400.72,3
+945,Ball Pen Pack,Stationery,2811.72,19
+946,Notebook A4,Stationery,2999.8,30
+947,Tape Roll,Stationery,4052.22,7
+948,Screwdriver Set,Tools,4675.04,25
+949,Screwdriver Set,Tools,2152.7,3
+950,Water Bottle 1L,Kitchen,685.06,3
+951,Tape Roll,Stationery,2055.57,0
+952,Screwdriver Set,Tools,416.86,32
+953,USB Cable,Electronics,4579.35,11
+954,Plastic Bucket,Household,3690.41,16
+955,LED Bulb 12W,Electrical,3091.89,39
+956,Hammer,Tools,1750.1,11
+957,Plastic Bucket,Household,631.96,37
+958,Hammer,Tools,3127.02,15
+959,Dishwashing Liquid,Cleaning,2756.35,39
+960,Tape Roll,Stationery,1520.8,20
+961,Screwdriver Set,Tools,4287.92,11
+962,USB Cable,Electronics,394.78,13
+963,Ball Pen Pack,Stationery,4744.64,16
+964,Floor Cleaner,Cleaning,2782.15,35
+965,Plastic Bucket,Household,2365.22,16
+966,Water Bottle 1L,Kitchen,4394.79,34
+967,Dishwashing Liquid,Cleaning,2873.04,18
+968,Flashlight,Electrical,2465.26,29
+969,Hammer,Tools,2196.63,4
+970,Floor Cleaner,Cleaning,4514.04,31
+971,Floor Cleaner,Cleaning,3703.86,0
+972,Flashlight,Electrical,2831.95,33
+973,USB Cable,Electronics,665.8,24
+974,Extension Cord,Electrical,1976.88,15
+975,Water Bottle 1L,Kitchen,607.08,32
+976,Flashlight,Electrical,4546.25,7
+977,Mobile Charger,Electronics,3159.78,10
+978,Dishwashing Liquid,Cleaning,2283.02,1
+979,Plastic Bucket,Household,2663.51,31
+980,Floor Cleaner,Cleaning,423.91,24
+981,Ball Pen Pack,Stationery,551.62,8
+982,Flashlight,Electrical,4593.07,1
+983,LED Bulb 12W,Electrical,3236.06,18
+984,USB Cable,Electronics,3712.51,7
+985,Hammer,Tools,235.47,19
+986,Notebook A4,Stationery,2095.04,25
+987,Ball Pen Pack,Stationery,4054.92,21
+988,Water Bottle 1L,Kitchen,4846.98,10
+989,USB Cable,Electronics,4773.09,5
+990,Floor Cleaner,Cleaning,3022.47,6
+991,Floor Cleaner,Cleaning,4595.83,15
+992,Water Bottle 1L,Kitchen,230.33,15
+993,Screwdriver Set,Tools,3340.2,7
+994,Screwdriver Set,Tools,4244.17,21
+995,USB Cable,Electronics,2108.95,27
+996,Tape Roll,Stationery,1933.36,17
+997,Extension Cord,Electrical,1853.9,39
+998,Extension Cord,Electrical,4920.43,27
+999,Extension Cord,Electrical,344.81,18
+1000,USB Cable,Electronics,4471.32,7

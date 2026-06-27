@@ -1,0 +1,19 @@
+company,ticker,sector,is_ai_company,ipo_status,expected_or_listing_date,ipo_valuation_usd_b,last_private_valuation_usd_b,amount_raised_usd_b,latest_annual_revenue_or_arr_usd_b,revenue_type,year_founded,headquarters_country,lead_investor_or_backer,valuation_to_revenue_multiple,years_to_ipo,notes
+SpaceX,SPCX,Space / Aerospace,No,Listed,2026-06-12,1750,400,75,15.5,Revenue,2002,United States,Founders Fund,112.9,24,"Largest IPO ever, surpassing Saudi Aramco"
+OpenAI,OPAI,AI / Foundation Models,Yes,Expected,2026-Q4,730,500,40,13.0,ARR,2015,United States,Microsoft,56.2,11,Most-anticipated AI IPO; valuation debate
+Anthropic,ANTH,AI / Foundation Models,Yes,Filed,2026-Q4,900,380,50,9.0,ARR,2021,United States,Google,100.0,5,Talks to raise $50B at $900B valuation
+Databricks,DBRX,Data / Analytics / AI,Yes,Filed,2026-Q3,134,134,12,3.7,ARR,2013,United States,Andreessen Horowitz,36.2,13,Data + AI platform; high ARR multiple
+Stripe,STRP,Fintech / Payments,No,Expected,2026-Q4,91.5,91.5,4,5.1,Revenue,2010,United States,Sequoia Capital,17.9,16,Long-awaited fintech debut
+Canva,CNVA,Design / SaaS,No,Filed,2026-Q3,49,49,3,3.0,ARR,2013,Australia,Blackbird Ventures,16.3,13,Profitable design unicorn
+Klarna,KLAR,Fintech / BNPL,No,Listed,2026-04-15,20,6.7,1.4,2.8,Revenue,2005,Sweden,Sequoia Capital,7.1,21,Rebounded from 2022 valuation cut
+Discord,DCRD,Social / Communication,No,Filed,2026-Q4,17,15,1.2,0.9,Revenue,2015,United States,Greylock Partners,18.9,11,Confidential filing
+Cohere,CHRE,AI / Foundation Models,Yes,Expected,2026-Q4,12,7,2,0.1,ARR,2019,Canada,Inovia Capital,120.0,7,Enterprise AI focus
+Chime,CHYM,Fintech / Neobank,No,Listed,2026-03-20,13,25,0.9,1.7,Revenue,2012,United States,DST Global,7.6,14,Down-round IPO from peak
+Strava,STRV,Health / Fitness / Social,No,Expected,2026-Q4,2.2,1.5,0.3,0.27,Revenue,2009,United States,Sequoia Capital,8.1,17,Fitness subscription platform
+Lime,LIME,Mobility / Transport,No,Filed,2026-Q3,3.6,2.4,0.5,0.69,Revenue,2017,United States,Andreessen Horowitz,5.2,9,Profitable micromobility
+Plaid,PLAD,Fintech / Infrastructure,No,Expected,2026-Q4,6,13.4,0.4,0.4,Revenue,2013,United States,Andreessen Horowitz,15.0,13,Fintech data plumbing
+Revolut,RVLT,Fintech / Neobank,No,Expected,2026-Q4,65,45,5,4.0,Revenue,2015,United Kingdom,SoftBank,16.2,11,Largest European fintech
+Mistral AI,MSTR2,AI / Foundation Models,Yes,Expected,2026-Q4,14,6.2,2,0.15,ARR,2023,France,General Catalyst,93.3,3,Leading European AI lab
+Scale AI,SCAL,AI / Data Labeling,Yes,Filed,2026-Q4,29,29,1,1.4,Revenue,2016,United States,Meta,20.7,10,AI data infrastructure
+Epic Games,EPIC,Gaming / Software,No,Expected,2026-Q4,32,31.5,2,6.3,Revenue,1991,United States,Tencent,5.1,35,Fortnite + Unreal Engine
+Rippling,RPLG,HR Tech / SaaS,No,Filed,2026-Q4,16.8,16.8,1,0.65,ARR,2016,United States,Kleiner Perkins,25.8,10,Workforce management platform

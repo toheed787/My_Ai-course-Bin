@@ -504,3 +504,8 @@ except ImportError:
 
 
 print("\nFinal assessment part 2 question 2 completed('I work 3 days in this part').")
+
+# This code cleans and studies SpaceX Starlink satellite data using Pandas, NumPy, and Seaborn.
+# It creates 10 maps/plots such as missing values heatmap, version count, longitude/latitude distributions, height/velocity plots, scatter plots, boxplot, and correlation heatmap.
+# It trains 8 machine learning models: Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Extra Trees, Gradient Boosting, and AdaBoost.
+# It also uses deep learning models RNN, LSTM, and GRU to predict satellite height using time series data.

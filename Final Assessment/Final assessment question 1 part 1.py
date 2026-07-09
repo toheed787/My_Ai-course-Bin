@@ -365,10 +365,10 @@ plt.close()
 
 print("Saved:", accuracy_graph_path)
 
+print("\nFinal assessment part 1 completed!!!")
+
 # This code cleans and analyzes SpaceX launch data, then creates charts such as a correlation heatmap,
 # mission outcomes by vehicle type, and success rate by launch site.
 
 # It trains and compares Logistic Regression, Decision Tree, and Random Forest models
 # to predict whether a SpaceX mission will be successful.
-
-print("\nFinal assessment part 1 completed!!!")

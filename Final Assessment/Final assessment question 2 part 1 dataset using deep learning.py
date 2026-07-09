@@ -367,3 +367,7 @@ except Exception as e:
     print(e)
 
 print("\nFinal assessment question 2 part 1 dataset using deep learning end to end completed.")
+
+# This code cleans and studies space industry data, then shows charts like heatmap, success rate, launches by company, and revenue vs launches.
+# It uses machine learning models like Logistic Regression, Random Forest, and Gradient Boosting to predict high success rates.
+# It also uses deep learning models like RNN, LSTM, and GRU to learn from yearly company data and compare results.

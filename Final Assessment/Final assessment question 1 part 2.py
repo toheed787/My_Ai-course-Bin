@@ -515,3 +515,6 @@ plt.close()
 
 
 print("\nFinal assessment question 1 part 2 completed!!!!")
+
+# This code cleans and analyzes SpaceX launch data, then creates 10 Seaborn maps to show missing values, correlations, mission outcomes, success rates, payload counts, and landing types.
+# It trains and compares 5 machine learning models: Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, and Support Vector Machine to predict launch success.
